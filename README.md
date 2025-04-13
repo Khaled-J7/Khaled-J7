@@ -383,62 +383,55 @@ I'm a Full Stack Web Developer currently pursuing my education at Holberton Scho
 
 ## 🚀 My Projects
 
+### 🪒 BarberFactory
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🪒 BarberFactory</h3>
-        <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
-          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/B_Factory.jpg" alt="BarberFactory" width="100%" />
-        </a>
-        <p>
-          BarberFactory is a mobile application that connects clients with barbers, enabling easy barbershop discovery and appointment booking.
-        </p>
-        <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>📋 Task Flow</h3>
-        <a href="https://github.com/Khaled-J7/taskflow">
-          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/Task_Flow.jpeg" alt="Task Flow" width="100%" />
-        </a>
-        <p>
-          TaskFlow is a collaborative task management system built with Django for creating projects, managing tasks, and team collaboration.
-        </p>
-        <a href="https://github.com/Khaled-J7/taskflow">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🏠 Holberton School AirBnB Clone</h3>
-        <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
-          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HBNBclone.png" alt="AirBnB Clone" width="100%" />
-        </a>
-        <p>
-          A replica of the Airbnb Website with command interpreter, frontend, database, and API components.
-        </p>
-        <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>🖥️ Holberton Simple Shell</h3>
-        <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
-          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HolbertonSimpleShell.png" alt="Simple Shell" width="100%" />
-        </a>
-        <p>
-          A basic Unix command-line interpreter for executing commands, managing processes, and navigating the file system.
-        </p>
-        <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
+    <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/B_Factory.jpg" alt="BarberFactory" width="450px" />
+  </a>
 </div>
+
+**Description**: BarberFactory is a mobile application that connects clients with barbers, enabling easy barbershop discovery and appointment booking. The app provides a seamless experience for both clients looking for haircuts and barbers managing their businesses.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khaled-J7/Portfolio-BarberFactory)
+
+---
+
+### 📋 Task Flow
+<div align="center">
+  <a href="https://github.com/Khaled-J7/taskflow">
+    <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/Task_Flow.jpeg" alt="Task Flow" width="450px" />
+  </a>
+</div>
+
+**Description**: TaskFlow is a collaborative task management system built with Django. This system allows users to create projects, manage tasks, assign team members, track progress, add comments, and receive notifications.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khaled-J7/taskflow)
+
+---
+
+### 🏠 Holberton School AirBnB Clone
+<div align="center">
+  <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
+    <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HBNBclone.png" alt="AirBnB Clone" width="450px" />
+  </a>
+</div>
+
+**Description**: The goal of the Holbertonschool - AirBnB clone project is to deploy a replica of the Airbnb Website using my server. The final version of this project includes a command interpreter, a website with static and dynamic functionalities, a comprehensive database, and an API for front-end/back-end communication.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khaled-J7/holbertonschool-AirBnB_clone)
+
+---
+
+### 🖥️ Holberton Simple Shell
+<div align="center">
+  <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
+    <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HolbertonSimpleShell.png" alt="Simple Shell" width="450px" />
+  </a>
+</div>
+
+**Description**: The Holberton Simple Shell is a basic Unix command-line interpreter developed as a project for Holberton School. It provides users with the ability to execute commands, manage processes, and navigate the file system.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khaled-J7/holbertonschool-simple_shell)
 
 ---
 
