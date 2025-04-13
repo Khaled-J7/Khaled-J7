@@ -1,7 +1,7 @@
 # Hi there, I'm Khaled Jallouli 👋
 
 <div align="center">
-  <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/github-header-image.png" alt="Khaled Jallouli - Full Stack Web Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/Khaled%20JallouliBusinessCardCanava.jpg" alt="Khaled Jallouli - Full Stack Web Developer" width="100%"/>
 </div>
 
 I'm a Full Stack Web Developer currently pursuing my education at Holberton School of Software Engineering. My journey in software development is driven by a passion for creating responsive, user-friendly web applications that solve real-world problems. At Holberton, I've built a strong foundation in both front-end and back-end technologies, allowing me to develop complete web solutions from concept to deployment. I enjoy the challenge of connecting elegant user interfaces with robust server-side logic.
@@ -387,7 +387,7 @@ I'm a Full Stack Web Developer currently pursuing my education at Holberton Scho
   <div class="project-card" align="center">
     <h3>🪒 BarberFactory</h3>
     <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
-      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/barber-factory.png" alt="BarberFactory" width="300px" />
+      <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/B_Factory.jpg" alt="BarberFactory" width="300px" />
     </a>
     <p>
       BarberFactory is a mobile application that connects clients with barbers, enabling easy barbershop discovery and appointment booking. The app provides a seamless experience for both clients looking for haircuts and barbers managing their businesses.
@@ -402,7 +402,7 @@ I'm a Full Stack Web Developer currently pursuing my education at Holberton Scho
   <div class="project-card" align="center">
     <h3>📋 Task Flow</h3>
     <a href="https://github.com/Khaled-J7/taskflow">
-      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/task-flow.png" alt="Task Flow" width="300px" />
+      <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/Task_Flow.jpeg" alt="Task Flow" width="300px" />
     </a>
     <p>
       TaskFlow is a collaborative task management system built with Django. This system allows users to create projects, manage tasks, assign team members, track progress, add comments, and receive notifications.
@@ -417,14 +417,14 @@ I'm a Full Stack Web Developer currently pursuing my education at Holberton Scho
   <div class="project-card" align="center">
     <h3>🏠 Holberton School AirBnB Clone</h3>
     <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
-      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/hbnb.png" alt="AirBnB Clone" width="300px" />
+      <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HBNBclone.png" alt="AirBnB Clone" width="300px" />
     </a>
     <p>
       The goal of the Holbertonschool - AirBnB clone project is to deploy a replica of the Airbnb Website using my server. The final version of this project includes a command interpreter, a website with static and dynamic functionalities, a comprehensive database, and an API for front-end/back-end communication.
     </p>
     <p>
-      <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+      <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
+        <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HolbertonSimpleShell.png" alt="Simple Shell" width="300px" />
       </a>
     </p>
   </div>
