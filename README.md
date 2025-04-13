@@ -1,58 +1,527 @@
-<h1>Hi there, I'm Khaled Jallouli 👋</h1>
-<p>I'm a Full Stack Web Developer currently pursuing my education at Holberton School of Software Engineering. My journey in software development is driven by a passion for creating responsive, user-friendly web applications that solve real-world problems.  At Holberton, I've built a strong foundation in both front-end and back-end technologies, allowing me to develop complete web solutions from concept to deployment. I enjoy the challenge of connecting elegant user interfaces with robust server-side logic.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://bestofjs.org/logos/vuetify.svg" style="display: inline-block;"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-<a target="_blank" href="https://docs.amplify.aws/assets/logo-dark.svg" style="display: inline-block;"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/Khaled Jallouli" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/Khaled Jallouli" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/Khaled Jallouli" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khaled-J7&show_icons=true&locale=en" alt="Khaled-J7" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-J7&" alt="Khaled-J7" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaled-J7&show_icons=true&locale=en&layout=compact" alt="Khaled-J7" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Khaled-J7" alt="Khaled-J7" /></a></p>
+# Hi there, I'm Khaled Jallouli 👋
+
+<div align="center">
+  <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/github-header-image.png" alt="Khaled Jallouli - Full Stack Web Developer" width="100%"/>
+</div>
+
+I'm a Full Stack Web Developer currently pursuing my education at Holberton School of Software Engineering. My journey in software development is driven by a passion for creating responsive, user-friendly web applications that solve real-world problems. At Holberton, I've built a strong foundation in both front-end and back-end technologies, allowing me to develop complete web solutions from concept to deployment. I enjoy the challenge of connecting elegant user interfaces with robust server-side logic.
+
+## 📫 Where to find me
+<div align="center">
+  <a href="https://x.com/KhaledJall20" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/khaled-jallouli-756272329/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100071286352298" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="Facebook" />
+  </a>
+  <a href="mailto:khaledjalloulidev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+## 🛠️ Languages and Tools I Use
+
+<details open>
+<summary><b>🌐 Frontend Development</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="48" height="48" alt="Vue.js" />
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://bestofjs.org/logos/vuetify.svg" width="48" height="48" alt="Vuetify" />
+      </a>
+      <br>Vuetify
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="48" height="48" alt="Svelte" />
+      </a>
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="48" height="48" alt="Babel" />
+      </a>
+      <br>Babel
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="Chart.js" />
+      </a>
+      <br>Chart.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="48" height="48" alt="D3.js" />
+      </a>
+      <br>D3.js
+    </td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>🔙 Backend Development</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express.js" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>📱 Mobile App Development</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" width="48" height="48" alt="NativeScript" />
+      </a>
+      <br>NativeScript
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" />
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://docs.amplify.aws/assets/logo-dark.svg" width="48" height="48" alt="Amplify" />
+      </a>
+      <br>Amplify
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="48" height="48" alt="Appwrite" />
+      </a>
+      <br>Appwrite
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🧪 Testing & Tools</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="48" height="48" alt="Mocha" />
+      </a>
+      <br>Mocha
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="48" height="48" alt="Cypress" />
+      </a>
+      <br>Cypress
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
+</details>
+
+## 🚀 My Projects
+
+<div class="projects-carousel">
+  <div class="project-card" align="center">
+    <h3>🪒 BarberFactory</h3>
+    <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
+      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/barber-factory.png" alt="BarberFactory" width="300px" />
+    </a>
+    <p>
+      BarberFactory is a mobile application that connects clients with barbers, enabling easy barbershop discovery and appointment booking. The app provides a seamless experience for both clients looking for haircuts and barbers managing their businesses.
+    </p>
+    <p>
+      <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+      </a>
+    </p>
+  </div>
+
+  <div class="project-card" align="center">
+    <h3>📋 Task Flow</h3>
+    <a href="https://github.com/Khaled-J7/taskflow">
+      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/task-flow.png" alt="Task Flow" width="300px" />
+    </a>
+    <p>
+      TaskFlow is a collaborative task management system built with Django. This system allows users to create projects, manage tasks, assign team members, track progress, add comments, and receive notifications.
+    </p>
+    <p>
+      <a href="https://github.com/Khaled-J7/taskflow">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+      </a>
+    </p>
+  </div>
+
+  <div class="project-card" align="center">
+    <h3>🏠 Holberton School AirBnB Clone</h3>
+    <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
+      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/hbnb.png" alt="AirBnB Clone" width="300px" />
+    </a>
+    <p>
+      The goal of the Holbertonschool - AirBnB clone project is to deploy a replica of the Airbnb Website using my server. The final version of this project includes a command interpreter, a website with static and dynamic functionalities, a comprehensive database, and an API for front-end/back-end communication.
+    </p>
+    <p>
+      <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+      </a>
+    </p>
+  </div>
+
+  <div class="project-card" align="center">
+    <h3>🖥️ Holberton Simple Shell</h3>
+    <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
+      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/simple-shell.png" alt="Simple Shell" width="300px" />
+    </a>
+    <p>
+      The Holberton Simple Shell is a basic Unix command-line interpreter developed as a project for Holberton School. It provides users with the ability to execute commands, manage processes, and navigate the file system.
+    </p>
+    <p>
+      <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+      </a>
+    </p>
+  </div>
+</div>
+
+<style>
+.projects-carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+.project-card {
+  flex: 0 0 auto;
+  width: 100%;
+  scroll-snap-align: start;
+  margin-right: 20px;
+  border: 1px solid #e1e4e8;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+}
+
+@media (min-width: 768px) {
+  .project-card {
+    width: calc(50% - 20px);
+  }
+}
+
+@media (min-width: 1200px) {
+  .project-card {
+    width: calc(33% - 20px);
+  }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const carousel = document.querySelector('.projects-carousel');
+  let currentIndex = 0;
+  const cards = document.querySelectorAll('.project-card');
+  
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % cards.length;
+    cards[currentIndex].scrollIntoView({
+      behavior: 'smooth',
+      block: 'nearest',
+      inline: 'start'
+    });
+  }, 5000);
+});
+</script>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-J7&show_icons=true&theme=tokyonight" alt="Khaled's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-J7&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-J7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Khaled-J7&theme=onedark&row=1&column=7" alt="trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Khaled-J7/Khaled-J7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting my profile! Feel free to check out my repositories and connect with me.</b>
+</div>
