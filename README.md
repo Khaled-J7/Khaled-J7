@@ -383,123 +383,64 @@ I'm a Full Stack Web Developer currently pursuing my education at Holberton Scho
 
 ## 🚀 My Projects
 
-<div class="projects-carousel">
-  <div class="project-card" align="center">
-    <h3>🪒 BarberFactory</h3>
-    <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
-      <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/B_Factory.jpg" alt="BarberFactory" width="300px" />
-    </a>
-    <p>
-      BarberFactory is a mobile application that connects clients with barbers, enabling easy barbershop discovery and appointment booking. The app provides a seamless experience for both clients looking for haircuts and barbers managing their businesses.
-    </p>
-    <p>
-      <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-      </a>
-    </p>
-  </div>
-
-  <div class="project-card" align="center">
-    <h3>📋 Task Flow</h3>
-    <a href="https://github.com/Khaled-J7/taskflow">
-      <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/Task_Flow.jpeg" alt="Task Flow" width="300px" />
-    </a>
-    <p>
-      TaskFlow is a collaborative task management system built with Django. This system allows users to create projects, manage tasks, assign team members, track progress, add comments, and receive notifications.
-    </p>
-    <p>
-      <a href="https://github.com/Khaled-J7/taskflow">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-      </a>
-    </p>
-  </div>
-
-  <div class="project-card" align="center">
-    <h3>🏠 Holberton School AirBnB Clone</h3>
-    <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
-      <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HBNBclone.png" alt="AirBnB Clone" width="300px" />
-    </a>
-    <p>
-      The goal of the Holbertonschool - AirBnB clone project is to deploy a replica of the Airbnb Website using my server. The final version of this project includes a command interpreter, a website with static and dynamic functionalities, a comprehensive database, and an API for front-end/back-end communication.
-    </p>
-    <p>
-      <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
-        <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HolbertonSimpleShell.png" alt="Simple Shell" width="300px" />
-      </a>
-    </p>
-  </div>
-
-  <div class="project-card" align="center">
-    <h3>🖥️ Holberton Simple Shell</h3>
-    <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
-      <img src="https://github.com/Khaled-J7/Khaled-J7/raw/main/simple-shell.png" alt="Simple Shell" width="300px" />
-    </a>
-    <p>
-      The Holberton Simple Shell is a basic Unix command-line interpreter developed as a project for Holberton School. It provides users with the ability to execute commands, manage processes, and navigate the file system.
-    </p>
-    <p>
-      <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-      </a>
-    </p>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🪒 BarberFactory</h3>
+        <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
+          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/B_Factory.jpg" alt="BarberFactory" width="100%" />
+        </a>
+        <p>
+          BarberFactory is a mobile application that connects clients with barbers, enabling easy barbershop discovery and appointment booking.
+        </p>
+        <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>📋 Task Flow</h3>
+        <a href="https://github.com/Khaled-J7/taskflow">
+          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/Task_Flow.jpeg" alt="Task Flow" width="100%" />
+        </a>
+        <p>
+          TaskFlow is a collaborative task management system built with Django for creating projects, managing tasks, and team collaboration.
+        </p>
+        <a href="https://github.com/Khaled-J7/taskflow">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🏠 Holberton School AirBnB Clone</h3>
+        <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
+          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HBNBclone.png" alt="AirBnB Clone" width="100%" />
+        </a>
+        <p>
+          A replica of the Airbnb Website with command interpreter, frontend, database, and API components.
+        </p>
+        <a href="https://github.com/Khaled-J7/holbertonschool-AirBnB_clone">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🖥️ Holberton Simple Shell</h3>
+        <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
+          <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/HolbertonSimpleShell.png" alt="Simple Shell" width="100%" />
+        </a>
+        <p>
+          A basic Unix command-line interpreter for executing commands, managing processes, and navigating the file system.
+        </p>
+        <a href="https://github.com/Khaled-J7/holbertonschool-simple_shell">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<style>
-.projects-carousel {
-  display: flex;
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  scroll-behavior: smooth;
-  -webkit-overflow-scrolling: touch;
-}
-
-.project-card {
-  flex: 0 0 auto;
-  width: 100%;
-  scroll-snap-align: start;
-  margin-right: 20px;
-  border: 1px solid #e1e4e8;
-  border-radius: 10px;
-  padding: 20px;
-  background-color: #ffffff;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-5px);
-}
-
-@media (min-width: 768px) {
-  .project-card {
-    width: calc(50% - 20px);
-  }
-}
-
-@media (min-width: 1200px) {
-  .project-card {
-    width: calc(33% - 20px);
-  }
-}
-</style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const carousel = document.querySelector('.projects-carousel');
-  let currentIndex = 0;
-  const cards = document.querySelectorAll('.project-card');
-  
-  setInterval(() => {
-    currentIndex = (currentIndex + 1) % cards.length;
-    cards[currentIndex].scrollIntoView({
-      behavior: 'smooth',
-      block: 'nearest',
-      inline: 'start'
-    });
-  }, 5000);
-});
-</script>
+---
 
 ## 📊 GitHub Stats
 
