@@ -425,7 +425,7 @@
         <h3 align="center">🪒 BarberFactory</h3>
         <div align="center">  
           <a href="https://github.com/Khaled-J7/Portfolio-BarberFactory">
-            <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/B_Factory.jpg" alt="BarberFactory" width="100%" />
+            <img src="https://raw.githubusercontent.com/Khaled-J7/Khaled-J7/main/B_Factory1.jpg" alt="BarberFactory" width="100%" />
           </a>
           <br>
           <p>
