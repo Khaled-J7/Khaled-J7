@@ -10,7 +10,7 @@
 
 <br>
 
-**I'm a Full Stack Web Developer currently pursuing my education at Holberton School of Software Engineering. My journey in software development is driven by a passion for creating responsive, user-friendly web applications that solve real-world problems. At Holberton, I've built a strong foundation in both front-end and back-end technologies, allowing me to develop complete web solutions from concept to deployment. I enjoy the challenge of connecting elegant user interfaces with robust server-side logic.**
+__I'm a Full Stack Web Developer currently pursuing my education at Holberton School of Software Engineering. My journey in software development is driven by a passion for creating responsive, user-friendly web applications that solve real-world problems. At Holberton, I've built a strong foundation in both front-end and back-end technologies, allowing me to develop complete web solutions from concept to deployment. I enjoy the challenge of connecting elegant user interfaces with robust server-side logic.__
 
 <br>
 
